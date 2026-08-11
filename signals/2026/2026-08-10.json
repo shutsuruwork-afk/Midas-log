@@ -1,0 +1,18 @@
+{
+  "spec": "midas-forward-v1",
+  "date": "2026-08-10",
+  "entries": [
+    {
+      "strategy_id": "baseline_benchmark_hold_1306",
+      "sha256": "d9f739ac50f97164285910c6622bc6262b6a1b79d669a94ecfa7b19e53a2a6e1"
+    },
+    {
+      "strategy_id": "baseline_equal_weight",
+      "sha256": "6275794db83a27e31ac1e263f9e80d3cad41582355245c0ad38db5eedc64079e"
+    },
+    {
+      "strategy_id": "baseline_reversal_top10",
+      "sha256": "c82f6c2b96459b0d587f934404de654626e1bdeb3b0a963fc75cfc8bcb3568a3"
+    }
+  ]
+}
