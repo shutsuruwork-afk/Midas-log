@@ -1,0 +1,10 @@
+{
+  "spec": "midas-forward-v1",
+  "date": "2026-09-01",
+  "entries": [
+    {
+      "strategy_id": "baseline_benchmark_hold_1306",
+      "sha256": "f7dc3a0c2e08525ee66acc41c9e39c71d40549ac65c248409749301f678a6090"
+    }
+  ]
+}
